@@ -1,1 +1,15 @@
-
+<?xml version="1.0"?>
+<bug_report>
+  <1>ID</1>
+  <2>Title</2>
+  <3>Steps<3>
+  <4>Expected Results</4>
+  <5>Actual Results</5>
+  <6>Priority</6>
+  <7>Severety</7>
+  <8>Attachments</8>
+  <9>Reproduable</9>
+  <10>Created day</10>
+  <11>Reporter</11>
+  <12>Environment</12>
+</bug_report>
